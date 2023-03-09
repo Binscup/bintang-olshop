@@ -1,0 +1,46 @@
+.form-control{
+    width: 350px;
+}
+.row-container{
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(228, 228, 228);
+}
+.width{
+    background: rgb(255, 255, 255);
+}
+.mt-2{
+    margin-left: 28px;  
+    
+}
+hr {
+    display: block;
+    border-width: 4px;
+    width: 70px;
+    color: rgb(40, 209, 43);
+    justify-content: center;
+    }
+/* footer */
+
+.images{
+    padding: 180px 100px 100px 100px; 
+    background-image: url("fashion.jpg"), linear-gradient(#00000018, #00000033);
+    z-index: 10000;
+}
+#show_bg_2 {
+    background-image:
+    linear-gradient(to bottom, rgba(5, 5, 5, 0.52), rgba(4, 4, 4, 0.73)),
+    url('fashion.jpg');
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    color: white;
+    padding: 120px;
+    background-position: center;
+}
+.paragraf{
+    margin-left: 80px;
+}
